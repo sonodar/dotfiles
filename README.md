@@ -1,1 +1,1 @@
-# dotfiles
+# dotfiles## Requirements### vimrc#### vim with lua```sh# for Macbrew install luabrew reinstall vim --with-lua# for Ubuntusudo apt-get install -y vim-gnome```#### the_silver_searcher#### Powerline Fonts Pacth### shell- rbenv- nvm- direnv
