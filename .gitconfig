@@ -1,0 +1,6 @@
+[alias]
+	s = status
+	c = commit
+[user]
+	email = ryoheisonoda@outlook.com
+	name = Ryohei Sonoda
